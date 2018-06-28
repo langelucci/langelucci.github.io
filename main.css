@@ -1,0 +1,26 @@
+body {
+background-color: #FFCF1A;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.divone {
+    color: red;
+}
+.images{
+    display: block;
+    margin: auto;
+}
+
+p {
+        margin: 50px;
+    }
+.sidebyside {
+    text-align:center
+}
+.sidebyside2 {
+    display: inline-block;
+    margin: 0 auto;
+    width: 40%;
+}
+h1 {
+    font-size: 100%
+}
